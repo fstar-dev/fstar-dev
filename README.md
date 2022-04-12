@@ -8,7 +8,7 @@
 
 ## About me
 🌱 I’m a Full stack developer with a masters degree in Computer Application. </br>
-👨‍💻  I am passionate about Web Dev & I enjoy learning new things. </br>
+👨‍💻  I am passionate about Blockchain Developmend include Solidity and Front-End & I enjoy learning new things. </br>
 <!--
 **smiley717/smiley717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
