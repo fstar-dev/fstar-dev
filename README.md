@@ -33,8 +33,8 @@
 [![react](https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=ff4444)]
 [![react](https://img.shields.io/badge/Vue-323330?style=for-the-badge&logo=vue.js&logoColor=22aa22)]
 [![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]
-[![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)]
 [![expressjs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)]
+[![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)]
 [![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)]
 [![react-native](https://img.shields.io/badge/ReactNative-CB3837?style=for-the-badge&logo=android&logoColor=white)]
 [![flutter](https://img.shields.io/badge/Flutter-2CA5E0?style=for-the-badge&logo=flutter&logoColor=white)]
@@ -46,8 +46,11 @@
 
 ### 🗃️ Databases
 
-[![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]
 [![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)]
+[![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]
+[![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)]
+[![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)]
+[![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)]
 
 ### ⚒️ Tools
 
