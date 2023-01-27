@@ -18,6 +18,7 @@
 
 [![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]
+[![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)]
 [![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)]
 [![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]
 [![dart](https://img.shields.io/badge/Dart-000?style=for-the-badge&logo=dart&logoColor=white)]
@@ -32,6 +33,7 @@
 [![react](https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=ff4444)]
 [![react](https://img.shields.io/badge/Vue-323330?style=for-the-badge&logo=vue.js&logoColor=22aa22)]
 [![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]
+[![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)]
 [![expressjs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)]
 [![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)]
 [![react-native](https://img.shields.io/badge/ReactNative-CB3837?style=for-the-badge&logo=android&logoColor=white)]
