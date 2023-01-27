@@ -78,6 +78,7 @@
 [![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)]
 [![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]
 [![react](https://img.shields.io/badge/React-656660?style=for-the-badge&logo=react&logoColor=61DAFB)]
+[![react](https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=ff4444)]
 [![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]
 [![expressjs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)]
 [![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)]
